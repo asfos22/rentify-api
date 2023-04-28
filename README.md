@@ -1,1 +1,1 @@
-Renseek api
+Rentify RESTful API 
