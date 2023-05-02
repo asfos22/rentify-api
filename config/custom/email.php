@@ -1,10 +1,10 @@
 <?php
 return array(
-    'host' =>'smtp.gmail.com',
-    'port' =>587,
+    'host' =>'',
+    'port' =>0000,
     'encryption' =>'TLS',
-    'username' =>'system.rentify@gmail.com',
-    'password' =>'goruvuzdgzzcgbjv',
-    'name' =>'Rentify',
-    'from' =>'no-reply@rentify.com'
+    'username' =>'',
+    'password' =>'',
+    'name' =>'',
+    'from' =>''
 );
